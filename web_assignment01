@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cozy Cafe Menu</title>
+</head>
+<body style="font-family: Arial, sans-serif; background-color: #fff8f0; text-align: center;">
+    <h1 style="color: #5c3d2e;">Cozy Cafe</h1>
+    <table border="1" cellpadding="10" cellspacing="0" align="center" style="background-color: #fff; width: 80%;">
+        <tr style="background-color: #f2e6d9;">
+            <th>Image</th>
+            <th>Item Name</th>
+            <th>Ingredients</th>
+        </tr>
+        <tr>
+            <td><img src="https://via.placeholder.com/100" alt="Latte" width="100"></td>
+            <td>Latte</td>
+            <td>Espresso, Steamed Milk</td>
+        </tr>
+        <tr>
+            <td><img src="https://via.placeholder.com/100" alt="Cappuccino" width="100"></td>
+            <td>Cappuccino</td>
+            <td>Espresso, Steamed Milk, Milk Foam</td>
+        </tr>
+        <tr>
+            <td><img src="https://via.placeholder.com/100" alt="Blueberry Muffin" width="100"></td>
+            <td>Blueberry Muffin</td>
+            <td>Flour, Eggs, Sugar, Blueberries</td>
+        </tr>
+        <tr>
+            <td><img src="https://via.placeholder.com/100" alt="Croissant" width="100"></td>
+            <td>Croissant</td>
+            <td>Butter, Flour, Yeast, Milk</td>
+        </tr>
+        <tr>
+            <td><img src="https://via.placeholder.com/100" alt="Iced Tea" width="100"></td>
+            <td>Iced Tea</td>
+            <td>Black Tea, Ice, Lemon, Sugar</td>
+        </tr>
+    </table>
+</body>
+</html>
